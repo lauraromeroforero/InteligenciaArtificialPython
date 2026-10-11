@@ -1,0 +1,42 @@
+ACTIVIDAD 2 — EJECUCIÓN Y PRUEBAS
+Requisito: Python 3.10 o posterior. No requiere paquetes externos.
+Desde la carpeta del repositorio, ejecutar:
+
+python rutas.py --estaciones
+python rutas.py Portal Sur
+python rutas.py Portal Centro
+python rutas.py Portal Sur --penalizacion 0
+python -m unittest discover -s tests -v
+
+En Windows puede usarse py en lugar de python.
+Resultados: Portal a Sur, 18 minutos; Portal a Centro, 8 minutos;
+Portal a Sur sin penalización, 16 minutos. La suite contiene seis pruebas.
+La red es académica y simulada; no representa recorridos reales de TransMilenio.
+ESTACIONES y CONEXIONES son los hechos; mejor_ruta aplica las reglas de
+conexión y transbordo. A* utiliza estados (estación, línea actual).
+La penalización por cambio de línea es de 2 minutos y no se cobra al primer abordaje.
+Si la distancia geométrica deja de ser una cota válida, se usa h=0 (Dijkstra).
+Una estación desconocida genera un error y un destino aislado devuelve None.
+El PDF Actividad_2_rutas_y_pruebas.pdf describe los casos y resultados.
+
+ACTIVIDAD 1 — EJEMPLOS
+Python con Scikit-learn:
+python -m venv .venv
+Activar en Linux/macOS: source .venv/bin/activate
+Activar en Windows PowerShell: .venv\Scripts\Activate.ps1
+python -m pip install scikit-learn
+python actividad1/ejemplo_python.py
+Resultado esperado: Predicción: Alto.
+
+R con rpart:
+Instalar R desde https://www.r-project.org/ y RStudio desde https://posit.co/.
+En la consola de RStudio, si falta rpart: install.packages("rpart")
+Abrir y ejecutar actividad1/ejemplo_r.R.
+Alternativa desde terminal: Rscript actividad1/ejemplo_r.R
+Resultado esperado: setosa. Este ejemplo aún no se ha validado en este entorno.
+
+ENLACES INDICADOS EN LOS PDF
+Repositorio: https://github.com/lauraromeroforero/InteligenciaArtificialPython
+Carpeta de documentos y videos:
+https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk
+Los videos todavía deben grabarse y subirse; el enlace apunta a una carpeta.
