@@ -40,3 +40,8 @@ Repositorio: https://github.com/lauraromeroforero/InteligenciaArtificialPython
 Carpeta de documentos y videos:
 https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk
 Los videos todavía deben grabarse y subirse; el enlace apunta a una carpeta.
+
+DOCUMENTOS DE LA ACTIVIDAD 2
+Actividad_2_rutas_y_pruebas.pdf: informe, reglas lógicas y pruebas verificadas.
+Actividad_2_entrega_enlaces.pdf: portada y enlaces para la plataforma; completar
+el enlace directo al video antes de entregar.
