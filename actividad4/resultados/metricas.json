@@ -1,0 +1,95 @@
+{
+  "fuente": "600 viajes SINTETICOS derivados de actividad 3; etiqueta eliminada",
+  "filas": 600,
+  "variables": [
+    "distancia_km",
+    "paradas",
+    "hora_pico",
+    "lluvia",
+    "ocupacion_pct",
+    "transbordos"
+  ],
+  "semilla": 42,
+  "n_init": 20,
+  "metodo": "StandardScaler + KMeans",
+  "candidatos": [
+    {
+      "k": 2,
+      "silueta": 0.17390931347454786,
+      "inercia": 2990.3500485982636
+    },
+    {
+      "k": 3,
+      "silueta": 0.14838079170792548,
+      "inercia": 2716.631497663273
+    },
+    {
+      "k": 4,
+      "silueta": 0.20044335245925926,
+      "inercia": 2387.247176201775
+    },
+    {
+      "k": 5,
+      "silueta": 0.17718778598097046,
+      "inercia": 2264.1001324330414
+    },
+    {
+      "k": 6,
+      "silueta": 0.17727474018501452,
+      "inercia": 2106.1407324773077
+    }
+  ],
+  "k_elegido": 4,
+  "silueta_elegida": 0.20044335245925926,
+  "perfiles": [
+    {
+      "grupo": 0,
+      "cantidad": 162,
+      "medias_unidades_originales": {
+        "distancia_km": 14.11623456790124,
+        "paradas": 13.858024691358025,
+        "hora_pico": 0.0,
+        "lluvia": 1.0,
+        "ocupacion_pct": 59.598765432098766,
+        "transbordos": 1.1419753086419753
+      }
+    },
+    {
+      "grupo": 1,
+      "cantidad": 146,
+      "medias_unidades_originales": {
+        "distancia_km": 13.837671232876705,
+        "paradas": 13.356164383561644,
+        "hora_pico": 0.0,
+        "lluvia": 0.0,
+        "ocupacion_pct": 57.47260273972603,
+        "transbordos": 1.0410958904109588
+      }
+    },
+    {
+      "grupo": 2,
+      "cantidad": 130,
+      "medias_unidades_originales": {
+        "distancia_km": 13.393923076923077,
+        "paradas": 13.746153846153845,
+        "hora_pico": 1.0,
+        "lluvia": 0.0,
+        "ocupacion_pct": 55.86923076923077,
+        "transbordos": 0.8692307692307693
+      }
+    },
+    {
+      "grupo": 3,
+      "cantidad": 162,
+      "medias_unidades_originales": {
+        "distancia_km": 13.381604938271606,
+        "paradas": 13.981481481481481,
+        "hora_pico": 1.0,
+        "lluvia": 1.0,
+        "ocupacion_pct": 56.19135802469136,
+        "transbordos": 0.9753086419753086
+      }
+    }
+  ],
+  "limitacion": "Seleccion y evaluacion descriptivas sobre la misma muestra; sin validacion externa ni clases reales."
+}
