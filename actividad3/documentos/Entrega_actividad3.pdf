@@ -19,61 +19,68 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/tree/main/actividad3)
->> /Border [ 0 0 0 ] /Rect [ 51 593.6398 196.61 607.6398 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 51 461.5148 213.613 477.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/datos/viajes_simulados.csv)
->> /Border [ 0 0 0 ] /Rect [ 51 571.6398 146.61 585.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk)
+>> /Border [ 0 0 0 ] /Rect [ 51 437.5148 278.425 453.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/modelo_transporte.py)
->> /Border [ 0 0 0 ] /Rect [ 51 549.6398 168.28 563.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/datos/viajes_simulados.csv)
+>> /Border [ 0 0 0 ] /Rect [ 51 381.5148 239.914 397.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/documentos/Descripcion_datos.pdf)
->> /Border [ 0 0 0 ] /Rect [ 51 527.6398 159.93 541.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/modelo_transporte.py)
+>> /Border [ 0 0 0 ] /Rect [ 51 358.5148 213.646 374.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/documentos/Pruebas_modelo.pdf)
->> /Border [ 0 0 0 ] /Rect [ 51 505.6398 144.93 519.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/generar_datos.py)
+>> /Border [ 0 0 0 ] /Rect [ 51 335.5148 275.378 351.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/documentos/Mapa_conceptual.pdf)
->> /Border [ 0 0 0 ] /Rect [ 51 483.6398 127.15 497.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/documentos/Descripcion_datos.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 51 312.5148 243.588 328.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/INSTRUCCIONES.txt)
->> /Border [ 0 0 0 ] /Rect [ 51 461.6398 168.83 475.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/documentos/Pruebas_modelo.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 51 289.5148 227.693 305.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk)
->> /Border [ 0 0 0 ] /Rect [ 51 383.6398 280.54 397.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/documentos/Mapa_conceptual.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 51 266.5148 134.765 282.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad3/INSTRUCCIONES.txt)
+>> /Border [ 0 0 0 ] /Rect [ 51 243.5148 244.193 259.5148 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -81,58 +88,59 @@ endobj
 >> /Type /Page
 >>
 endobj
-13 0 obj
-<<
-/PageMode /UseNone /Pages 15 0 R /Type /Catalog
->>
-endobj
 14 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20261012001555+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261012001555+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
 endobj
 15 0 obj
 <<
-/Count 1 /Kids [ 12 0 R ] /Type /Pages
+/Author (\(anonymous\)) /CreationDate (D:20261012001750+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261012001750+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
 16 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1301
+/Count 1 /Kids [ 13 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1324
 >>
 stream
-Gat=*?#S^l'Re<2\;t>mWP8Fs[k*UJ.@[2;\kbktCO70;fcFemM8H8W^1W2(L+ZeC+lS"BbWY^UF$G'CnF>=Y=qH*cd-l0Bq#N'Jj@B0)(ABXi>eOJ>]/KsYNCI>@NlNkL@)I%)H@:LRro#mX/9"TSIVc1p!ddcul?f9[`qCUOleAe/D_g@36<XT0Ld!K0J`!D"eW^C"8rGHght]];D(;7:ABgP=Kbc>Kpm$=*E#BetL!N8Vd@_H&l`!KN+j*8W*-c5'B%gXXF"6H<Jfi\T0")(P]e.FQjuj[.FKaUZdiBK5d??'LBXR%#*UU[5GU@=l$^V_^Iq$mJ\mbGjrm7N?2\\Yd*-f<hgVj,(T4-6(A2kWQ6o%WN;OUOp%#87_J!]_#kZTmG-.=sW!t6)YasFLuLk>e[e#d'6&_d_QADeY/>%=8*ZC8/=5oMaL^-Y+'G-/`aOat+[%G$g0\)IiM"r0*W.jn5FHIQ[Sd\^"]6SJ<#mIn+5pq."u?RI>4IR*^4e@We$%%W3cOTfN8UaW6[VDamd)Bip5ZB0Wd$\R(#18gYqUb33AWb'kn%*+Dmc-%q&)aQ!\@rq+`FiKE@HaFQbE1H[$:`rm5W7"-\N4hp7WKu(01-H7gS=>._2H4Y7Pc?JR<F\",NPf/jSM9/4.$!%M9+?bD"2_4;MgTEU4qtG+_rh1bpn(qI`H8SeP8oQ=q=:p._pCK'+W>OB0X5'-jBBskVKl4=993ou>I")R+\oLu;`.p>Abn\A/jNIEQCCo+rpVHS0Be5RE@YD['00WE>?P,q7-!JNLa_[@g<Uj>UXfA-X?`OH=+SXi<!JP`;O,+!&+LiAZ\qU0R\4H0r9C:=9GP`)o&"#P/>PUujsMVaa.8.Pm,@qe18F+3Bf9,lGsdY!LZs3[YaG+J8YC+dr#J4jF'<?SYhDobOrT`ae%W$Xks8/uka;_d;6I-k.?rHOm]g"heD=(M\S*R9@;!PQ=B>QV!=531oOa8"J\].2g)k&MK#srRW.MU/6ja0s5VA&Ve%W`Na#;^f.Yoa>bj`h9As9$VCNQm\_+g^5gJ4+)$g_()i&23=e:$&rDN5J_@sU"ApF<bGb4u7s-"qEngWkW]DT;iWcA#F?W=Rspm8L[8gqI<UG7;>Gms7V/c"c*._a2Mn-E1TND_$r6.s,HE*(KdH]=-`M[!"QlF2_!A.1ft&Z)s==[c:$8]5bWooG[a303t>sZ[)!:D_N']JCg#(9T[g?%@iMhL0J&Yarq[?NS8`\>VJGclHT!FR'mm:+/3q2[^NKIVfH\-;0JsT])!4*[8Qo~>endstream
+Gat=*gMZ%0&:Ml+b[XhdY&:]/oVn<SdJsU#m^dfR&<*TnQN8D4]GS_=I>@H;%9lR:_\\.Fc^C2BAsbp%Y;C]c#2mrEI_AN#c!WSfZksQ4I=f)qe\>2MqOaMsatb&>eYM1PGThnOAoYf9VVCM5_1oGA+K`L]=V`n6Qc#W#.UJ^tE.+c]V[X"/P)o2Mrbgh\N0Om47!P5adFaPC!aGR/VJe0e)1MBi#Nk[q^OG6EN%X.6rO[#h.;Q".LR0PBiV=cAV,#Xr6;<!$Tsg9EnVt?\Nm(C)XS%>$;(gPt4H3BH39=jJq)ED?C`Ot8TN6"]co=%Pr(H^7-09hgGLlRn,"(5&'7,<#UcDJ/Hi>c=^1],dDkQ,^H6Mup/LU[M`O9C>:["@V%XZUGo-HS\p0`9GD]gQn.SI);lYZJ:^@S'8DR<('iDOh_k<#p`O\)s<S#e<LgM">K"eF'0,[>8^7iu\V?65+).kuoMA$f,7'RU9AH'+P`<^GVt(5D1E&%1oi]DJI0k`Di3f#\+*3(ZiRZGTQE,@FVtdY'])W*9i"?k^A!Gdp4)J8adqkbQQ-:s/C9"44o/>OT=Z1YCEL2XIjq0NXQk@^@d^KZ5eKh>d`1_35?&KRc$WOqeM>7C9AjMJ['WK3!Wd!#hlj41Z`]+ek^PIN$S)V4q#U@;j#Haa(#MV\78]jZ\6MBr'F:lT1k8<.6M"U.WuEXUF9,,lc4Y[UOV,<2q*Spr_#;>#HV4E"PG+Rs3s0[b4[us.'P5H'fI1h"a\GYo4&/b\H71NiCH(Md'W6I?;\hYScF)1pZ4mF&hBMGaCj\AqS5!Ib^UDr2Ec/RZiSfN.\r3?ZJQSdu5s4mCEU3N_?saU*IRFXb/B`?,;_TTpW1r#b4u">UVCH#>-m:1g3/q0fl]&?mC<\g(rfGg)bJ,?)pf'PSB=mkj;Hjkcd^U+7*'9LtsDK2I)OQl2L1YeRZPQW9OO=-Drn+OWQKEO)k(ef#2ip49V+5*-.11fE^\Tb6P-cMVti"H/;1I3BoC,o_?LB6/aPC)_*%ZW!Y%A1"#*?0Cr(-E1>&`GDJEZ!,FJbc$#PRHk>%5N>Snn;Viq(I$1,EH!XgWK6n]"(7He[rbpAYjE95EL;GQi=d@*#<hnY@<k"dEe8h6MQO*N?,@fp:?:r2YZ'sj2_YF.q3*1KTU>>>p$=GqfesYjsD4VIi)(*mf%/I^!6SF?+lbcXd<,AXU0<m\#*%Y[OiS!E=@[mAp^=R,s(hI9$P0l8$OO5k-_:u)bcM@IWD`/N)`6St+r($9!>F(-_lb`g;7IgmeHUF:Z8GMjh0>0L&UBam#!H-JDVZ~>endstream
 endobj
 xref
-0 17
+0 18
 0000000000 65535 f 
 0000000061 00000 n 
 0000000102 00000 n 
 0000000209 00000 n 
 0000000321 00000 n 
-0000000551 00000 n 
-0000000808 00000 n 
-0000001059 00000 n 
-0000001322 00000 n 
-0000001582 00000 n 
-0000001843 00000 n 
-0000002092 00000 n 
-0000002309 00000 n 
-0000002577 00000 n 
-0000002647 00000 n 
-0000002928 00000 n 
-0000002989 00000 n 
+0000000552 00000 n 
+0000000769 00000 n 
+0000001027 00000 n 
+0000001279 00000 n 
+0000001527 00000 n 
+0000001791 00000 n 
+0000002053 00000 n 
+0000002316 00000 n 
+0000002566 00000 n 
+0000002841 00000 n 
+0000002911 00000 n 
+0000003192 00000 n 
+0000003253 00000 n 
 trailer
 <<
 /ID 
-[<d0225eae61a5b73a3d06ba6890c9492f><d0225eae61a5b73a3d06ba6890c9492f>]
+[<03993cb50ae22d9094513457a88866a8><03993cb50ae22d9094513457a88866a8>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 14 0 R
-/Root 13 0 R
-/Size 17
+/Info 15 0 R
+/Root 14 0 R
+/Size 18
 >>
 startxref
-4382
+4669
 %%EOF
