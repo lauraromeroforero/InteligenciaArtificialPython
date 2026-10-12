@@ -24,7 +24,6 @@ La fuente es SIMULADA. No utilizar para recomendaciones de transporte real.
 Resultados: actividad4/resultados/metricas.json y viajes_agrupados.csv.
 Documentos: actividad4/documentos/Descripcion_datos.pdf,
 Pruebas_agrupamiento.pdf y Entrega_actividad4.pdf.
-Video máximo 10 minutos: grabar la ejecución, subir a Drive e identificarlo
-claramente como Actividad 4. El PDF enlaza la carpeta compartida.
-Agregar a la tutora como colaboradora usando su usuario de GitHub.
-Si se realiza en equipo, todos deben participar y hacer aportes reales en Git.
+
+VIDEOS
+https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk

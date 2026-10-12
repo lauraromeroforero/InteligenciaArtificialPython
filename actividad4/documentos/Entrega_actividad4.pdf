@@ -19,61 +19,54 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/tree/main/actividad4)
->> /Border [ 0 0 0 ] /Rect [ 51 596.6398 198.83 610.6398 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 51 528.5148 214.834 544.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/datos/viajes_sin_etiquetas.csv)
->> /Border [ 0 0 0 ] /Rect [ 51 574.6398 169.96 588.6398 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 51 503.5148 130.497 519.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/agrupamiento.py)
->> /Border [ 0 0 0 ] /Rect [ 51 552.6398 198.86 566.6398 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 51 478.5148 156.787 494.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/preparar_datos.py)
->> /Border [ 0 0 0 ] /Rect [ 51 530.6398 193.3 544.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/documentos/Descripcion_datos.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 51 453.5148 170.823 469.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/documentos/Descripcion_datos.pdf)
->> /Border [ 0 0 0 ] /Rect [ 51 508.6398 159.93 522.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/documentos/Pruebas_agrupamiento.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 51 428.5148 227.693 444.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/documentos/Pruebas_agrupamiento.pdf)
->> /Border [ 0 0 0 ] /Rect [ 51 486.6398 211.63 500.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/INSTRUCCIONES.txt)
+>> /Border [ 0 0 0 ] /Rect [ 51 403.5148 180.613 419.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/lauraromeroforero/InteligenciaArtificialPython/blob/main/actividad4/INSTRUCCIONES.txt)
->> /Border [ 0 0 0 ] /Rect [ 51 464.6398 168.83 478.6398 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk)
+>> /Border [ 0 0 0 ] /Rect [ 51 342.5148 203.229 358.5148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk)
->> /Border [ 0 0 0 ] /Rect [ 51 414.6398 213.84 428.6398 ] /Subtype /Link /Type /Annot
->>
-endobj
-12 0 obj
-<<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -81,58 +74,57 @@ endobj
 >> /Type /Page
 >>
 endobj
+12 0 obj
+<<
+/PageMode /UseNone /Pages 14 0 R /Type /Catalog
+>>
+endobj
 13 0 obj
 <<
-/PageMode /UseNone /Pages 15 0 R /Type /Catalog
+/Author (\(anonymous\)) /CreationDate (D:20261012003551+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261012003551+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
 14 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20261012002412+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261012002412+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/Count 1 /Kids [ 11 0 R ] /Type /Pages
 >>
 endobj
 15 0 obj
 <<
-/Count 1 /Kids [ 12 0 R ] /Type /Pages
->>
-endobj
-16 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1316
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 931
 >>
 stream
-Gat=*9lo&I&A@sBlnRnG.R?s>aXOJ82cI,J7VY_jafGbML5.$fJ5ki0Is`;&ac[s.<]&6\'ERVcm(V;bJg,S1prs/?O#-XoP9:Idm$:&n95-;XX4c1DR98kC$Q9M=hIn_ei=.>+@DOSAn?.!kLDL>cMFic>WAsU+7+1B3P7a*nP2:T-C;&,[,rXZ!nW8478c#/>dQ!DI\?`-!qEM\q<#TdOV<h)AQKBQ`h:(_'3e(`P.0%6K3RY9a)U^R2->Nrgf#C(neZ&f%,OTTtPZoAWd:[j6:BW^n"!)ba\?S^@K6&hs_SmGiC'n3,r<[J<5F`<5;t"DBV1e#mgsk'.9`NSLD(>.;i\VRm;*=Vs+hmbfP'.udN/&c)\M1HIQ8<rQ%$HeQ.eQ\BVe``0l15l,@"^gY>]M3Bd3eLt9Bkc4:#Zu*9bfYGfNOL%*Zm6cAYuD"l(^aU*pYmd;T4G70+^(N1l*>ZC,"8%dq'PEXY]Gb!R=!q;Au"T\?M7IN,rRHXl%D3`MMn&:Zrg#f$)ga4BNF6dt#(9j5,tupuX'LZminQXPk(Na`-QfhC.Fs01Bg>-q\hC@6d]D_.'2%pf"HXZ:BD;ZIG(.<E-L9el8an]F@B-p:cV!I>\7'25_4`1d[V](7:4H7)CFDA:sp$%#H'?*GNU3-tM9d<u\'<K'`'X+7FLg8!<DC6@a2qX>Y1&lX--,gR`Z=Y<![G-=MD6>H5_QqI$Wk]aW0L[L'=YSRdDK'?VFX#ULL`#j&qTJCFt57^=KDWH'HsIQP/A58=DH`OkNta!"#]1<S5.\sFBO-S[dj.ba:Pa+Cm%0!i.C_NB39^4mriC8/=5UJiW?9[2-/i"6.YR_4BLFs@nH,]l(,Q-c-r=5,'D0@cB\]uldDYWC/W8'B^`#PhRsA_L$7DN[usWsdrR'tS3f9?NjG*_fA;Q#FWJ0\Fri+9&Lr`[l.!QPMX6jYn(D<pA#321a)=DZi%4C?B3eCGop$<Z)!5O=a8PV2pWE<LbqtR3#Yqm6b9j?jcO$l;7!:c#%Sj]JSMZaMK\X$^)+/kZ6F^r-K^Q$1s6cZE/\E5Qhtu[QD'+.2(J,PN58!r/oJMJY#4n]i->bgsRcU#8>+CVGhu-jRn&;bao3+o6`?hF?8+@)>d1AebuS?7m/$lrI.)>J'dg(+XCp;CN.c-*r3=S=JUH+1M/S/eYB,;qq!X)CNUL^#9K"RBQRhBL5^hS"_3D_'2'1Sf8#68Hd<$-0+&!p=i0g#diAW\\Dc49@k`P4O&G[*_\D$0A&*F%_E[QAF/n']WuqWnD*+UOQnD&e\,/MpSUC`Ucr0K~>endstream
+Gat=)gMY_1&:N^ljtWtVGC@:cH#$<@7ST^;corUQ_g3JaCp1Ge.f/h/21[S5R+;=IMtP:SF6:\+"@f#frT+d0jV6QXLCcp/>sOb[#u'eq4<=>:KTAn=6ccPmaR`8(&TkhB"2,[NCq*82JJG#=+O#86..W5C/7;VPe+'eqZR_jkV3/r(SAmF6XlW`",;!YeE'"k>@3r;A=Q:p!Y$h)EcC\Yj?=2pfS6Ic8a6i46[rO&./EhHs72^KA`P^'&65_0S@&$.raBuFi:b+6&&UH#<(2?A-+J%`'<5U:.;E\hr:Kolh[2#NCMOK_IW3';q\gokY=On.%Cof-4'''5OU!j9kMTSAtVMeJoYG`,*Kr1WL-h_o+7125o\fg',FB0<<SS6^@/g!QpdB6=_&1&lg=Hn9L$GZIRS92WEC_-:2-t`M<\"mSuDsJ0nCYA(@?\f=5XYtdc:8*GGH4hpW%b6$RJrmr&VS@SCh3Xo?<g'gkhVTblYa4?f"%LkMotKMJrCUms!>A*86=!8EQ9rIn5+YgWCD4KO!*<0Q)R].$J=i6X"'LOpKJ_UAl"C/gd'j^Z93&Gegn?$hEOn$5FMacu_qme?,lr:S*r#JSC(\We<jX@aUhj3c9!R(PSi'^"fJH]2hH?H)>h8,D6p&S'l)7PgI%^E?%@%gHpdoq-kgF<17H3*9-g!tm330&^S9S2`"J%\J:A<tV.E6LeHqTX$CU*4GK41"W^^:$\%.4;l6!C+]JfADg\G:=2rNQJeJ]$HOJOi8*St)rhgF[=c[*!LL-_mF=R:L_'\an<$jANg'bN/975,c&V7s\EqUot8X/I!X%/*NcUa`1%$qh19AX*-"&2[OrkN%8W;:,"`sP.7toDJNaij%mQD<e@qRZ+AT+a#t*6I@'^f=bt@G*QNHO6JL"eI4oQ;NB/qi0_c+3B5c/~>endstream
 endobj
 xref
-0 17
+0 16
 0000000000 65535 f 
 0000000061 00000 n 
 0000000102 00000 n 
 0000000209 00000 n 
 0000000321 00000 n 
-0000000551 00000 n 
-0000000812 00000 n 
-0000001058 00000 n 
-0000001305 00000 n 
-0000001568 00000 n 
-0000001834 00000 n 
-0000002083 00000 n 
-0000002300 00000 n 
-0000002568 00000 n 
-0000002638 00000 n 
-0000002919 00000 n 
-0000002980 00000 n 
+0000000552 00000 n 
+0000000814 00000 n 
+0000001061 00000 n 
+0000001325 00000 n 
+0000001592 00000 n 
+0000001841 00000 n 
+0000002059 00000 n 
+0000002320 00000 n 
+0000002390 00000 n 
+0000002671 00000 n 
+0000002732 00000 n 
 trailer
 <<
 /ID 
-[<5d6f1b315d68cc63b6d13225b117546f><5d6f1b315d68cc63b6d13225b117546f>]
+[<d0779f89c3c0bd22f3608763a06fd99b><d0779f89c3c0bd22f3608763a06fd99b>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 14 0 R
-/Root 13 0 R
-/Size 17
+/Info 13 0 R
+/Root 12 0 R
+/Size 16
 >>
 startxref
-4388
+3754
 %%EOF

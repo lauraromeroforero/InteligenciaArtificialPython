@@ -33,15 +33,14 @@ Instalar R desde https://www.r-project.org/ y RStudio desde https://posit.co/.
 En la consola de RStudio, si falta rpart: install.packages("rpart")
 Abrir y ejecutar actividad1/ejemplo_r.R.
 Alternativa desde terminal: Rscript actividad1/ejemplo_r.R
-Resultado esperado: setosa. Este ejemplo aún no se ha validado en este entorno.
+Resultado esperado: setosa.
 
 ENLACES INDICADOS EN LOS PDF
 Repositorio: https://github.com/lauraromeroforero/InteligenciaArtificialPython
 Carpeta de documentos y videos:
 https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk
-Los videos todavía deben grabarse y subirse; el enlace apunta a una carpeta.
+
 
 DOCUMENTOS DE LA ACTIVIDAD 2
 Actividad_2_rutas_y_pruebas.pdf: informe, reglas lógicas y pruebas verificadas.
-Actividad_2_entrega_enlaces.pdf: portada y enlaces para la plataforma; completar
-el enlace directo al video antes de entregar.
+Actividad_2_entrega_enlaces.pdf: portada y enlaces de entrega.

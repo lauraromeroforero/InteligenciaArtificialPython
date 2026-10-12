@@ -26,10 +26,7 @@ DOCUMENTOS
 Descripcion_datos.pdf: procedencia, diccionario, fórmula y limitaciones.
 Pruebas_modelo.pdf: metodología, métricas y seis pruebas ejecutadas.
 Mapa_conceptual.pdf: mapa de aprendizaje supervisado aplicado al transporte.
-Entrega_actividad3.pdf: portada y enlaces; completar el enlace directo al video.
+Entrega_actividad3.pdf: portada y enlaces de entrega.
 
-PENDIENTES EXTERNOS
-La consigna no acepta entrega individual: formar equipo o solicitar una excepción.
-Grabar el video de máximo 10 minutos, completar su enlace y entregar el PDF.
-Agregar a la tutora como colaboradora usando su usuario de GitHub.
-Si hay equipo, cada integrante debe realizar aportes reales registrados en Git.
+VIDEOS
+https://drive.google.com/drive/folders/1C9uXlLQ2zHUr_G8TTDZYv0uYEjdvPgQk
