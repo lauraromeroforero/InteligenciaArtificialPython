@@ -1,0 +1,35 @@
+ACTIVIDAD 3 — APRENDIZAJE SUPERVISADO
+Desde la carpeta principal del repositorio, con Python 3.10 o posterior:
+
+python -m venv .venv
+Linux/macOS: source .venv/bin/activate
+Windows PowerShell: .venv\Scripts\Activate.ps1
+python -m pip install -r actividad3/requirements.txt
+python actividad3/modelo_transporte.py
+python -m unittest discover -s actividad3/tests -v
+
+En Windows, usar py en lugar de python si corresponde.
+El CSV ya está incluido. Para regenerarlo de manera determinista:
+python actividad3/generar_datos.py
+
+El modelo es un árbol de regresión: predice minutos, no categorías.
+El dataset contiene 600 registros SINTÉTICOS, no mediciones reales.
+Se separan 480 registros de entrenamiento y 120 de prueba, con semilla 42.
+Los hiperparámetros se eligen por validación cruzada de cinco particiones
+solo sobre entrenamiento. La prueba no se utiliza para elegir el árbol.
+Se compara con un modelo que predice la media del entrenamiento.
+Resultados: resultados/metricas.json, predicciones_prueba.csv y reglas_arbol.txt.
+MAE esperado aproximadamente 4.34 minutos frente a 12.94 del baseline.
+Estas métricas solo evalúan el proceso simulado y no permiten predecir viajes reales.
+
+DOCUMENTOS
+Descripcion_datos.pdf: procedencia, diccionario, fórmula y limitaciones.
+Pruebas_modelo.pdf: metodología, métricas y seis pruebas ejecutadas.
+Mapa_conceptual.pdf: mapa de aprendizaje supervisado aplicado al transporte.
+Entrega_actividad3.pdf: portada y enlaces; completar el enlace directo al video.
+
+PENDIENTES EXTERNOS
+La consigna no acepta entrega individual: formar equipo o solicitar una excepción.
+Grabar el video de máximo 10 minutos, completar su enlace y entregar el PDF.
+Agregar a la tutora como colaboradora usando su usuario de GitHub.
+Si hay equipo, cada integrante debe realizar aportes reales registrados en Git.

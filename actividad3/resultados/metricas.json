@@ -1,0 +1,48 @@
+{
+  "origen_datos": "SINTETICOS; no son observaciones reales",
+  "semilla": 42,
+  "filas_total": 600,
+  "filas_entrenamiento": 480,
+  "filas_prueba": 120,
+  "variables": [
+    "distancia_km",
+    "paradas",
+    "hora_pico",
+    "lluvia",
+    "ocupacion_pct",
+    "transbordos"
+  ],
+  "objetivo": "tiempo_min",
+  "mejores_parametros": {
+    "max_depth": null,
+    "min_samples_leaf": 3
+  },
+  "mae_validacion_cruzada_min": 4.478268055555556,
+  "arbol_prueba": {
+    "mae_min": 4.344499999999999,
+    "rmse_min": 5.871300489220614,
+    "r2": 0.8615030750632469
+  },
+  "baseline_prueba": {
+    "mae_min": 12.942957291666664,
+    "rmse_min": 15.810351340086084,
+    "r2": -0.004279406200631275
+  },
+  "importancias": {
+    "distancia_km": 0.7166339806136798,
+    "paradas": 0.11897898052971825,
+    "hora_pico": 0.10559894747482852,
+    "lluvia": 0.010794660317215057,
+    "ocupacion_pct": 0.011875681644383471,
+    "transbordos": 0.03611774942017494
+  },
+  "ejemplo_entrada": {
+    "distancia_km": 10,
+    "paradas": 12,
+    "hora_pico": 1,
+    "lluvia": 0,
+    "ocupacion_pct": 80,
+    "transbordos": 1
+  },
+  "ejemplo_prediccion_min": 50.95333333333334
+}

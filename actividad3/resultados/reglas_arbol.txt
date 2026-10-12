@@ -1,0 +1,388 @@
+|--- distancia_km <= 15.08
+|   |--- distancia_km <= 9.62
+|   |   |--- paradas <= 14.50
+|   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |--- distancia_km <= 4.27
+|   |   |   |   |   |--- ocupacion_pct <= 62.00
+|   |   |   |   |   |   |--- value: [23.72]
+|   |   |   |   |   |--- ocupacion_pct >  62.00
+|   |   |   |   |   |   |--- value: [18.81]
+|   |   |   |   |--- distancia_km >  4.27
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- distancia_km <= 6.41
+|   |   |   |   |   |   |   |--- value: [21.70]
+|   |   |   |   |   |   |--- distancia_km >  6.41
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 70.50
+|   |   |   |   |   |   |   |   |--- value: [26.51]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  70.50
+|   |   |   |   |   |   |   |   |--- value: [31.52]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- distancia_km <= 9.15
+|   |   |   |   |   |   |   |--- distancia_km <= 5.87
+|   |   |   |   |   |   |   |   |--- value: [34.37]
+|   |   |   |   |   |   |   |--- distancia_km >  5.87
+|   |   |   |   |   |   |   |   |--- ocupacion_pct <= 34.50
+|   |   |   |   |   |   |   |   |   |--- value: [31.81]
+|   |   |   |   |   |   |   |   |--- ocupacion_pct >  34.50
+|   |   |   |   |   |   |   |   |   |--- paradas <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [26.38]
+|   |   |   |   |   |   |   |   |   |--- paradas >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [29.72]
+|   |   |   |   |   |   |--- distancia_km >  9.15
+|   |   |   |   |   |   |   |--- value: [36.27]
+|   |   |   |--- hora_pico >  0.50
+|   |   |   |   |--- distancia_km <= 6.10
+|   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |--- paradas <= 11.50
+|   |   |   |   |   |   |   |--- distancia_km <= 4.38
+|   |   |   |   |   |   |   |   |--- value: [26.16]
+|   |   |   |   |   |   |   |--- distancia_km >  4.38
+|   |   |   |   |   |   |   |   |--- value: [30.63]
+|   |   |   |   |   |   |--- paradas >  11.50
+|   |   |   |   |   |   |   |--- value: [33.97]
+|   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |--- distancia_km <= 4.81
+|   |   |   |   |   |   |   |--- value: [32.45]
+|   |   |   |   |   |   |--- distancia_km >  4.81
+|   |   |   |   |   |   |   |--- value: [40.04]
+|   |   |   |   |--- distancia_km >  6.10
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- paradas <= 6.50
+|   |   |   |   |   |   |   |   |--- value: [30.27]
+|   |   |   |   |   |   |   |--- paradas >  6.50
+|   |   |   |   |   |   |   |   |--- value: [36.23]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- value: [42.41]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- ocupacion_pct <= 37.50
+|   |   |   |   |   |   |   |--- value: [42.23]
+|   |   |   |   |   |   |--- ocupacion_pct >  37.50
+|   |   |   |   |   |   |   |--- distancia_km <= 8.54
+|   |   |   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [42.81]
+|   |   |   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [46.27]
+|   |   |   |   |   |   |   |--- distancia_km >  8.54
+|   |   |   |   |   |   |   |   |--- value: [51.45]
+|   |   |--- paradas >  14.50
+|   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |--- distancia_km <= 6.69
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- value: [28.66]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 64.00
+|   |   |   |   |   |   |   |   |--- value: [34.97]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  64.00
+|   |   |   |   |   |   |   |   |--- value: [33.99]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 70.50
+|   |   |   |   |   |   |   |   |--- value: [36.97]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  70.50
+|   |   |   |   |   |   |   |   |--- value: [41.26]
+|   |   |   |   |--- distancia_km >  6.69
+|   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |--- ocupacion_pct <= 58.50
+|   |   |   |   |   |   |   |--- distancia_km <= 8.64
+|   |   |   |   |   |   |   |   |--- value: [39.19]
+|   |   |   |   |   |   |   |--- distancia_km >  8.64
+|   |   |   |   |   |   |   |   |--- value: [35.03]
+|   |   |   |   |   |   |--- ocupacion_pct >  58.50
+|   |   |   |   |   |   |   |--- value: [41.22]
+|   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |--- paradas <= 20.00
+|   |   |   |   |   |   |   |--- value: [45.40]
+|   |   |   |   |   |   |--- paradas >  20.00
+|   |   |   |   |   |   |   |--- value: [50.72]
+|   |   |   |--- hora_pico >  0.50
+|   |   |   |   |--- distancia_km <= 5.31
+|   |   |   |   |   |--- distancia_km <= 3.04
+|   |   |   |   |   |   |--- value: [37.27]
+|   |   |   |   |   |--- distancia_km >  3.04
+|   |   |   |   |   |   |--- paradas <= 20.50
+|   |   |   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |   |   |--- value: [41.51]
+|   |   |   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |   |   |--- value: [44.20]
+|   |   |   |   |   |   |--- paradas >  20.50
+|   |   |   |   |   |   |   |--- value: [46.27]
+|   |   |   |   |--- distancia_km >  5.31
+|   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |--- paradas <= 20.50
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 76.50
+|   |   |   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [44.10]
+|   |   |   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [46.32]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  76.50
+|   |   |   |   |   |   |   |   |--- value: [47.02]
+|   |   |   |   |   |   |--- paradas >  20.50
+|   |   |   |   |   |   |   |--- distancia_km <= 7.02
+|   |   |   |   |   |   |   |   |--- value: [48.77]
+|   |   |   |   |   |   |   |--- distancia_km >  7.02
+|   |   |   |   |   |   |   |   |--- value: [52.51]
+|   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |--- ocupacion_pct <= 48.00
+|   |   |   |   |   |   |   |--- value: [52.02]
+|   |   |   |   |   |   |--- ocupacion_pct >  48.00
+|   |   |   |   |   |   |   |--- value: [55.38]
+|   |--- distancia_km >  9.62
+|   |   |--- paradas <= 7.50
+|   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |--- distancia_km <= 12.85
+|   |   |   |   |   |   |--- value: [28.69]
+|   |   |   |   |   |--- distancia_km >  12.85
+|   |   |   |   |   |   |--- value: [37.02]
+|   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |--- distancia_km <= 12.41
+|   |   |   |   |   |   |--- distancia_km <= 11.32
+|   |   |   |   |   |   |   |--- value: [36.85]
+|   |   |   |   |   |   |--- distancia_km >  11.32
+|   |   |   |   |   |   |   |--- value: [39.07]
+|   |   |   |   |   |--- distancia_km >  12.41
+|   |   |   |   |   |   |--- value: [42.54]
+|   |   |   |--- hora_pico >  0.50
+|   |   |   |   |--- distancia_km <= 12.44
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- distancia_km <= 10.60
+|   |   |   |   |   |   |   |--- value: [39.50]
+|   |   |   |   |   |   |--- distancia_km >  10.60
+|   |   |   |   |   |   |   |--- value: [44.22]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- value: [46.11]
+|   |   |   |   |--- distancia_km >  12.44
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- value: [47.13]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- value: [53.06]
+|   |   |--- paradas >  7.50
+|   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |--- paradas <= 20.50
+|   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |--- ocupacion_pct <= 40.50
+|   |   |   |   |   |   |   |--- value: [38.01]
+|   |   |   |   |   |   |--- ocupacion_pct >  40.50
+|   |   |   |   |   |   |   |--- distancia_km <= 13.11
+|   |   |   |   |   |   |   |   |--- distancia_km <= 11.96
+|   |   |   |   |   |   |   |   |   |--- value: [45.23]
+|   |   |   |   |   |   |   |   |--- distancia_km >  11.96
+|   |   |   |   |   |   |   |   |   |--- value: [42.21]
+|   |   |   |   |   |   |   |--- distancia_km >  13.11
+|   |   |   |   |   |   |   |   |--- value: [48.29]
+|   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |   |--- paradas <= 18.50
+|   |   |   |   |   |   |   |   |--- distancia_km <= 11.08
+|   |   |   |   |   |   |   |   |   |--- value: [45.27]
+|   |   |   |   |   |   |   |   |--- distancia_km >  11.08
+|   |   |   |   |   |   |   |   |   |--- value: [46.87]
+|   |   |   |   |   |   |   |--- paradas >  18.50
+|   |   |   |   |   |   |   |   |--- value: [49.47]
+|   |   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |   |--- value: [54.10]
+|   |   |   |   |--- paradas >  20.50
+|   |   |   |   |   |--- distancia_km <= 11.62
+|   |   |   |   |   |   |--- value: [49.80]
+|   |   |   |   |   |--- distancia_km >  11.62
+|   |   |   |   |   |   |--- distancia_km <= 12.72
+|   |   |   |   |   |   |   |--- value: [58.46]
+|   |   |   |   |   |   |--- distancia_km >  12.72
+|   |   |   |   |   |   |   |--- value: [52.04]
+|   |   |   |--- hora_pico >  0.50
+|   |   |   |   |--- paradas <= 21.50
+|   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |--- paradas <= 17.00
+|   |   |   |   |   |   |   |--- paradas <= 10.00
+|   |   |   |   |   |   |   |   |--- value: [49.95]
+|   |   |   |   |   |   |   |--- paradas >  10.00
+|   |   |   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [50.95]
+|   |   |   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [53.66]
+|   |   |   |   |   |   |--- paradas >  17.00
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 69.00
+|   |   |   |   |   |   |   |   |--- value: [59.30]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  69.00
+|   |   |   |   |   |   |   |   |--- value: [54.76]
+|   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |--- distancia_km <= 13.21
+|   |   |   |   |   |   |   |--- value: [57.33]
+|   |   |   |   |   |   |--- distancia_km >  13.21
+|   |   |   |   |   |   |   |--- value: [65.28]
+|   |   |   |   |--- paradas >  21.50
+|   |   |   |   |   |--- ocupacion_pct <= 63.00
+|   |   |   |   |   |   |--- value: [59.48]
+|   |   |   |   |   |--- ocupacion_pct >  63.00
+|   |   |   |   |   |   |--- value: [67.08]
+|--- distancia_km >  15.08
+|   |--- distancia_km <= 21.56
+|   |   |--- hora_pico <= 0.50
+|   |   |   |--- paradas <= 12.50
+|   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |--- distancia_km <= 19.81
+|   |   |   |   |   |   |--- paradas <= 10.50
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 57.50
+|   |   |   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [42.68]
+|   |   |   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [44.08]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  57.50
+|   |   |   |   |   |   |   |   |--- value: [45.09]
+|   |   |   |   |   |   |--- paradas >  10.50
+|   |   |   |   |   |   |   |--- value: [50.86]
+|   |   |   |   |   |--- distancia_km >  19.81
+|   |   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |   |--- value: [50.63]
+|   |   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |   |--- value: [57.55]
+|   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |--- paradas <= 6.50
+|   |   |   |   |   |   |--- value: [50.60]
+|   |   |   |   |   |--- paradas >  6.50
+|   |   |   |   |   |   |--- ocupacion_pct <= 27.00
+|   |   |   |   |   |   |   |--- value: [52.53]
+|   |   |   |   |   |   |--- ocupacion_pct >  27.00
+|   |   |   |   |   |   |   |--- paradas <= 8.00
+|   |   |   |   |   |   |   |   |--- value: [60.57]
+|   |   |   |   |   |   |   |--- paradas >  8.00
+|   |   |   |   |   |   |   |   |--- value: [58.76]
+|   |   |   |--- paradas >  12.50
+|   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |--- distancia_km <= 18.15
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- value: [51.95]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- value: [53.56]
+|   |   |   |   |   |--- distancia_km >  18.15
+|   |   |   |   |   |   |--- ocupacion_pct <= 79.00
+|   |   |   |   |   |   |   |--- paradas <= 20.50
+|   |   |   |   |   |   |   |   |--- value: [56.56]
+|   |   |   |   |   |   |   |--- paradas >  20.50
+|   |   |   |   |   |   |   |   |--- value: [59.53]
+|   |   |   |   |   |   |--- ocupacion_pct >  79.00
+|   |   |   |   |   |   |   |--- value: [62.29]
+|   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |--- paradas <= 15.50
+|   |   |   |   |   |   |--- distancia_km <= 15.95
+|   |   |   |   |   |   |   |--- value: [53.69]
+|   |   |   |   |   |   |--- distancia_km >  15.95
+|   |   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |   |--- value: [58.20]
+|   |   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |   |--- value: [60.19]
+|   |   |   |   |   |--- paradas >  15.50
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- ocupacion_pct <= 54.50
+|   |   |   |   |   |   |   |   |--- value: [63.10]
+|   |   |   |   |   |   |   |--- ocupacion_pct >  54.50
+|   |   |   |   |   |   |   |   |--- value: [61.05]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- paradas <= 20.50
+|   |   |   |   |   |   |   |   |--- distancia_km <= 16.45
+|   |   |   |   |   |   |   |   |   |--- value: [61.38]
+|   |   |   |   |   |   |   |   |--- distancia_km >  16.45
+|   |   |   |   |   |   |   |   |   |--- value: [64.49]
+|   |   |   |   |   |   |   |--- paradas >  20.50
+|   |   |   |   |   |   |   |   |--- value: [68.03]
+|   |   |--- hora_pico >  0.50
+|   |   |   |--- distancia_km <= 16.74
+|   |   |   |   |--- paradas <= 12.50
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- value: [49.92]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- value: [56.38]
+|   |   |   |   |--- paradas >  12.50
+|   |   |   |   |   |--- paradas <= 19.50
+|   |   |   |   |   |   |--- value: [63.06]
+|   |   |   |   |   |--- paradas >  19.50
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- value: [64.26]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- value: [67.02]
+|   |   |   |--- distancia_km >  16.74
+|   |   |   |   |--- paradas <= 11.50
+|   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |--- value: [59.22]
+|   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- value: [65.41]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- paradas <= 8.50
+|   |   |   |   |   |   |   |   |--- value: [67.41]
+|   |   |   |   |   |   |   |--- paradas >  8.50
+|   |   |   |   |   |   |   |   |--- value: [69.44]
+|   |   |   |   |--- paradas >  11.50
+|   |   |   |   |   |--- distancia_km <= 18.16
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- value: [65.28]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- value: [69.74]
+|   |   |   |   |   |--- distancia_km >  18.16
+|   |   |   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |   |   |--- value: [68.33]
+|   |   |   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |   |   |--- distancia_km <= 19.45
+|   |   |   |   |   |   |   |   |--- ocupacion_pct <= 41.50
+|   |   |   |   |   |   |   |   |   |--- value: [75.38]
+|   |   |   |   |   |   |   |   |--- ocupacion_pct >  41.50
+|   |   |   |   |   |   |   |   |   |--- value: [71.73]
+|   |   |   |   |   |   |   |--- distancia_km >  19.45
+|   |   |   |   |   |   |   |   |--- distancia_km <= 19.88
+|   |   |   |   |   |   |   |   |   |--- value: [77.94]
+|   |   |   |   |   |   |   |   |--- distancia_km >  19.88
+|   |   |   |   |   |   |   |   |   |--- value: [75.69]
+|   |--- distancia_km >  21.56
+|   |   |--- paradas <= 17.50
+|   |   |   |--- ocupacion_pct <= 19.50
+|   |   |   |   |--- value: [58.90]
+|   |   |   |--- ocupacion_pct >  19.50
+|   |   |   |   |--- transbordos <= 0.50
+|   |   |   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |   |   |--- value: [59.88]
+|   |   |   |   |   |--- hora_pico >  0.50
+|   |   |   |   |   |   |--- distancia_km <= 24.28
+|   |   |   |   |   |   |   |--- value: [65.93]
+|   |   |   |   |   |   |--- distancia_km >  24.28
+|   |   |   |   |   |   |   |--- value: [69.29]
+|   |   |   |   |--- transbordos >  0.50
+|   |   |   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |   |   |--- paradas <= 12.00
+|   |   |   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |   |   |--- value: [64.25]
+|   |   |   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |   |   |--- value: [67.42]
+|   |   |   |   |   |   |--- paradas >  12.00
+|   |   |   |   |   |   |   |--- distancia_km <= 23.02
+|   |   |   |   |   |   |   |   |--- value: [68.22]
+|   |   |   |   |   |   |   |--- distancia_km >  23.02
+|   |   |   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [70.51]
+|   |   |   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [73.09]
+|   |   |   |   |   |--- hora_pico >  0.50
+|   |   |   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |   |   |--- paradas <= 8.00
+|   |   |   |   |   |   |   |   |--- value: [70.56]
+|   |   |   |   |   |   |   |--- paradas >  8.00
+|   |   |   |   |   |   |   |   |--- value: [73.27]
+|   |   |   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |   |   |--- value: [76.21]
+|   |   |   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |   |   |--- value: [82.93]
+|   |   |--- paradas >  17.50
+|   |   |   |--- hora_pico <= 0.50
+|   |   |   |   |--- lluvia <= 0.50
+|   |   |   |   |   |--- value: [67.11]
+|   |   |   |   |--- lluvia >  0.50
+|   |   |   |   |   |--- value: [75.02]
+|   |   |   |--- hora_pico >  0.50
+|   |   |   |   |--- paradas <= 22.50
+|   |   |   |   |   |--- transbordos <= 1.50
+|   |   |   |   |   |   |--- value: [80.44]
+|   |   |   |   |   |--- transbordos >  1.50
+|   |   |   |   |   |   |--- value: [86.62]
+|   |   |   |   |--- paradas >  22.50
+|   |   |   |   |   |--- value: [89.21]
