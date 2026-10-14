@@ -1,21 +1,21 @@
 ACTIVIDAD 4 — AGRUPAMIENTO NO SUPERVISADO
 Requisito: Python 3.10 o posterior.
-Desde la raíz del repositorio:
+Para ejecutar mi proyecto desde la raíz del repositorio, utilizo:
 python -m venv .venv
 Linux/macOS: source .venv/bin/activate
 Windows PowerShell: .venv\Scripts\Activate.ps1
 python -m pip install -r actividad4/requirements.txt
 python actividad4/agrupamiento.py
 python -m unittest discover -s actividad4/tests -v
-En Windows puede usarse py en vez de python.
+En Windows puedo usar py en vez de python.
 
 El dataset sin etiquetas está incluido; no es necesario regenerarlo.
-Para regenerarlo desde el CSV sintético de actividad 3:
+Para regenerarlo desde mi CSV sintético de la actividad 3, ejecuto:
 python actividad4/preparar_datos.py
 
-K-means recibe seis atributos estandarizados con StandardScaler.
-No usa id_viaje, tiempo_min ni grupos definidos previamente.
-Compara k=2,3,4,5,6 y selecciona la mayor silueta sobre la misma muestra.
+Utilicé K-means con seis atributos estandarizados mediante StandardScaler.
+Excluí id_viaje y tiempo_min; no proporcioné grupos definidos previamente.
+Comparé k=2,3,4,5,6 y seleccioné la mayor silueta sobre la misma muestra.
 Semilla 42 y 20 inicializaciones. Se esperan cuatro grupos y silueta aproximada 0.2004.
 La selección es exploratoria; no constituye validación externa ni demuestra clases reales.
 Los grupos corresponden principalmente a combinaciones de lluvia y hora pico.

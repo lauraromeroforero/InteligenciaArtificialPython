@@ -1,5 +1,5 @@
 ACTIVIDAD 3 — APRENDIZAJE SUPERVISADO
-Desde la carpeta principal del repositorio, con Python 3.10 o posterior:
+Para ejecutar mi proyecto desde la carpeta principal, utilizo Python 3.10 o posterior:
 
 python -m venv .venv
 Linux/macOS: source .venv/bin/activate
@@ -8,16 +8,16 @@ python -m pip install -r actividad3/requirements.txt
 python actividad3/modelo_transporte.py
 python -m unittest discover -s actividad3/tests -v
 
-En Windows, usar py en lugar de python si corresponde.
-El CSV ya está incluido. Para regenerarlo de manera determinista:
+En Windows puedo usar py en lugar de python si corresponde.
+El CSV ya está incluido. Para regenerarlo de manera determinista, ejecuto:
 python actividad3/generar_datos.py
 
-El modelo es un árbol de regresión: predice minutos, no categorías.
+Utilicé un árbol de regresión para predecir minutos.
 El dataset contiene 600 registros SINTÉTICOS, no mediciones reales.
-Se separan 480 registros de entrenamiento y 120 de prueba, con semilla 42.
-Los hiperparámetros se eligen por validación cruzada de cinco particiones
-solo sobre entrenamiento. La prueba no se utiliza para elegir el árbol.
-Se compara con un modelo que predice la media del entrenamiento.
+Separé 480 registros para entrenamiento y 120 para prueba, con semilla 42.
+Elegí los hiperparámetros mediante validación cruzada de cinco particiones
+solo sobre entrenamiento. No utilicé la prueba para elegir el árbol.
+Comparé mi modelo con uno que predice la media del entrenamiento.
 Resultados: resultados/metricas.json, predicciones_prueba.csv y reglas_arbol.txt.
 MAE esperado aproximadamente 4.34 minutos frente a 12.94 del baseline.
 Estas métricas solo evalúan el proceso simulado y no permiten predecir viajes reales.

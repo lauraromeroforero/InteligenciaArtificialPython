@@ -1,6 +1,6 @@
 ACTIVIDAD 2 — EJECUCIÓN Y PRUEBAS
 Requisito: Python 3.10 o posterior. No requiere paquetes externos.
-Desde la carpeta del repositorio, ejecutar:
+Desde la carpeta del repositorio, ejecuto:
 
 python rutas.py --estaciones
 python rutas.py Portal Sur
